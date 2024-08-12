@@ -5,3 +5,5 @@ A Python code that generates a file with a name that you choose and the file con
 literally none
 
 # @b.4haa
+
+! [example-gif](example.gif)
