@@ -6,4 +6,4 @@ literally none
 
 # @b.4haa
 
-! [example-gif](example.gif)
+![example-gif](example.gif)
